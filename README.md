@@ -8,7 +8,7 @@ Dracula Dark Mode theme, inspired by the renowned [Dracula color scheme](https:/
 - Optimized for extended use with reduced eye strain
 
 ## Installation
-To apply the Dracula Dark Mode theme to your Simplex Chat on Androidor PC:
+To apply the Dracula Dark Mode theme to your Simplex Chat on Android or PC:
 
 1. Download the `dracula_simplex.theme` file from this repository.
 2. Copy the file to your Android device or PC.
