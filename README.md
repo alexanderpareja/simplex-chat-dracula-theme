@@ -1,4 +1,4 @@
-# Dracula Dark Mode Theme for Simplex Chat
+# Dracula Dark Mode Theme for SimpleX Chat
 ![desktop](https://i.imgur.com/tQKdJUM.png)
 Dracula Dark Mode theme, inspired by the renowned [Dracula color scheme](https://draculatheme.com/contribute#color-palette).
 
